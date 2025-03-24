@@ -1,4 +1,4 @@
-name: Generate SBOM with Syft
+name: Branch SBOM
 
 on:
   workflow_dispatch
